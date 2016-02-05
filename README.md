@@ -1,2 +1,2 @@
 # druid-extension
-extend druid
+扩展druid的
